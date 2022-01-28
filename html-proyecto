@@ -1,0 +1,92 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" name="viewport" content="withd=device-withd, initial-scale=1.0" >
+
+
+	<title>La evolución del videojuego</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="style.css">
+
+  </head>
+
+  <body>
+
+
+	<header>
+  	<h1 style=font-size:3vw>Encabezado</h1>
+	</header>
+
+	<nav>
+  	<ul>
+    	<li><a href="#">Inicio</a></li>
+    	<li><a href="#">equipo</a></li>
+    	<li><a href="#">Proyectos</a></li>
+    	<li><a href="#">Contacto</a></li>
+  	</ul>
+
+
+   	<form>
+     	<input type="search" name="q" placeholder="Buscar">
+     	<input type="submit" value="¡Vamos!">
+   	</form>
+ 	</nav>
+
+	
+	<main>
+
+  	<article>
+   <h2 style=font-size:2vw>La evolución del videojuego</h2> 	
+      <p style=font-size:1.5vw>Se podría decir que lo que hoy conocemos como videojuegos nació alrededor de la década de <strong>1950</strong>, en aquel entonces fue solo una rareza tecnológica en una feria de ciencias. Ahora, los videojuegos son increíblemente populares, superando incluso a la televisión</p>
+
+    	<h3 style=font-size:2vw>Los inicios del videojuego</h3>
+<p style=font-size:1.5vw>Pocos esperarían que el origen de los videojuegos estuviera relacionado con la bomba atómica</p>
+
+    	<p style=font-size:1.5vw>William Higinbotham, miembro del proyecto Manhattan, era el responsable de la creación de los mandos de detonación, trabajó años en el "Nacional Laboratory of Brookhaven". Para entretener a los jóvenes visitantes, en 1958, William creó a partir de un osciloscopio un sencillo juego en el que dos mandos podían mandar un haz de luz de un lado a otro</p>
+      <p style=font-size:1.5vw>Nacimiento de <i>"Tennis for Two"</i>, primer videojuego de la historia</p>
+
+
+    	<p style=font-size:1.5vw><strong>Spacewar</strong> es un videojuego de combate espacial desarrollado en 1962 por Steve Russell en colaboración con Martin Graetz, Wayne Wiitanen, Bob Saunders, Steve Piner y otros. Fue programado para el por entonces recién creado minicomputador DEC PDP-1 del Instituto de Tecnología de Massachusetts</p>
+      <p style=font-size:1.5vw> -ambos juegos tienen algo en común. Necesitan enormes ordenadores para funcionar, lo que impide que el público tuviera acceso a ellos más allá de ferias tecnológicas.</p>
+
+
+    	<h3 style=font-size:2vw>Los primeros juegos comerciales</h3>
+
+    	<p style=font-size:1.5vw>La Atari 2600 es una videoconsola lanzada al mercado en 1977 bajo el nombre de Atari VCS, convirtiéndose en el primer sistema de videojuegos en tener gran éxito.Además se popularizaron las arcades.Aquí algunos de sus juegos mas importantes:</p>
+       <ul>
+         <li>Pong(1972)
+         <li>Space invaders(1978)
+         <li>Asteroids(1979)
+         <li>Pac-Man(1980)
+       </ul>
+<h3 style=font-size:2vw>El crash del 83</h3>
+
+    	<p style=font-size:1.5vw>En el año 1983, la industria del videojuego fue llevada a la quiebra, varias empresas estadounidenses dedicadas a la producción de ordenadores y videojuegos cerraron. El principal detonante de la crisis fue la enorme cantidad de videojuegos de baja calidad existentes en el mercado de la época, llegando estos a ocasionar una notable reducción en las ventas de videojuegos y una enorme pérdida de la confianza por parte de los clientes. Atari, la empresa lider en aquel entonces, enterro millones de copias de videojuegos fracasados en el desierto de Alamogordo, en Nuevo México</p>
+      
+  	</article>
+
+ 
+  	<aside>
+    	<h2 style=font-size:2vw>Relacionado</h2>
+
+    	<ul>
+      	<li><a href="#">William Higinbotham</a></li>
+      	<li><a href="#">Steve Russell</a></li>
+      	<li><a href="#">Tennis for Two</a></li>
+      	<li><a href="#">Spacewar</a></li>
+      	<li><a href="#">Pac-Man</a></li>
+    	</ul>
+  	</aside>
+
+	</main>
+
+
+	<footer>
+  	<p>©Copyright 2050 de nadie. Todos los derechos revertidos.</p>
+	</footer>
+
+  </body>
+</html>
+
+
+
